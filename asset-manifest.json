@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mesala01/friendsApp/static/css/main.ae8b5563.chunk.css",
+    "main.js": "/mesala01/friendsApp/static/js/main.f74f8ac7.chunk.js",
+    "main.js.map": "/mesala01/friendsApp/static/js/main.f74f8ac7.chunk.js.map",
+    "runtime-main.js": "/mesala01/friendsApp/static/js/runtime-main.9a409df9.js",
+    "runtime-main.js.map": "/mesala01/friendsApp/static/js/runtime-main.9a409df9.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/mesala01/friendsApp/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.68beacc1.chunk.js": "/mesala01/friendsApp/static/js/2.68beacc1.chunk.js",
+    "static/js/2.68beacc1.chunk.js.map": "/mesala01/friendsApp/static/js/2.68beacc1.chunk.js.map",
+    "static/js/3.91a0c869.chunk.js": "/mesala01/friendsApp/static/js/3.91a0c869.chunk.js",
+    "static/js/3.91a0c869.chunk.js.map": "/mesala01/friendsApp/static/js/3.91a0c869.chunk.js.map",
+    "index.html": "/mesala01/friendsApp/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/mesala01/friendsApp/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.ae8b5563.chunk.css.map": "/mesala01/friendsApp/static/css/main.ae8b5563.chunk.css.map",
+    "static/js/2.68beacc1.chunk.js.LICENSE.txt": "/mesala01/friendsApp/static/js/2.68beacc1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/mesala01/friendsApp/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a409df9.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.68beacc1.chunk.js",
+    "static/css/main.ae8b5563.chunk.css",
+    "static/js/main.f74f8ac7.chunk.js"
+  ]
+}
